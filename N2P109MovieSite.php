@@ -9,7 +9,7 @@ if ($_SESSION['authuser'] != 1){
 ?>
 <html>
  <head>
-  <title>My Movie Site <?php echo $_GET['favmovie'];?></title>;
+  <title>My Movie Site <?php echo $_GET['favmovie'];?></title>
  </head>
  <body>
 <?php
@@ -25,4 +25,3 @@ echo $movierate;
 ?>
  </body>
 </html>
-
