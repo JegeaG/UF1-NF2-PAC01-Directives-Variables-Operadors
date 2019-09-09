@@ -1,7 +1,7 @@
 
 <html>
  <head>
-  <title>Find my Favorite Movie!</title>;
+  <title>Find my Favorite Movie!</title>
  </head>
  <body>
 <?php
@@ -11,4 +11,3 @@ echo "</a>";
 ?>
  </body>
 </html>
-
