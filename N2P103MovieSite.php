@@ -1,7 +1,7 @@
 
 <html>
  <head>
-  <title>My Movie Site <?php echo $_GET['favmovie'];?></title>;
+  <title>My Movie Site <?php echo $_GET['favmovie'];?></title>
  </head>
  <body>
 <?php
